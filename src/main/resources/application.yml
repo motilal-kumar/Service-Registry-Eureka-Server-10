@@ -1,0 +1,15 @@
+server:
+  port: 8761
+
+spring:
+    application:
+      name: SERVICE-REGISTRY-EUREKA
+
+eureka:
+  client:
+    register-with-eureka: true
+
+
+
+   # server.port=8761
+    #eureka.client.register-with-eureka=true
